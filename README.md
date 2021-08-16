@@ -1,2 +1,2 @@
 # CSE-332 (Introduction to Visualization)
-Dashboard about USA Statistics using Plotly
+Dashboard about USA Statistics using Plotly for Python
